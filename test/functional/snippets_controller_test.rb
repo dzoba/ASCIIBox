@@ -46,4 +46,5 @@ class SnippetsControllerTest < ActionController::TestCase
 
     assert_redirected_to snippets_path
   end
+
 end
