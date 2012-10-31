@@ -1,9 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  body: MyText
-  user: 
+  body: Testing one
+  user_id: 1
 
 two:
-  body: MyText
-  user: 
+  body: Testing two
+  user: 2
+
+three: 
+  body: Testing three
+  user: 3
